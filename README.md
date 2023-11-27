@@ -24,6 +24,7 @@ Account holders have the option to close their accounts by providing the account
 6. Update an Account
 Users can update account details, including the account holder's name, account type, and balance.
 
+
 Code Structure
 The code is organized into a class called account, which represents a bank account. It includes member functions for account operations such as opening an account, displaying account information, updating account details, depositing, withdrawing, and generating a report.
 
@@ -35,6 +36,7 @@ Important Notes
 The program stores account information in a binary file called account.dat.
 Account balances have specific minimum requirements (>=440 for Savings and >=1000 for Current).
 The system can handle up to 3 accounts.
+
 Author
 Abhishek Rajendra Mohite
 
