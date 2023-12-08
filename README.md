@@ -37,8 +37,8 @@ The program stores account information in a binary file called account.dat.
 Account balances have specific minimum requirements (>=440 for Savings and >=1000 for Current).
 The system can handle up to 3 accounts.
 
-Author
+Author 
 Abhishek Rajendra Mohite
 
-License
+License 
 This code is available under the Abhishek Rajendra Mohite license.
