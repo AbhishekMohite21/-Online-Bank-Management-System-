@@ -38,7 +38,7 @@ Account balances have specific minimum requirements (>=440 for Savings and >=100
 The system can handle up to 3 accounts.
 
 Author 
-Abhishek Rajendra Mohite
+Abhishek Rajendra Mohite. 
 
 License 
-This code is available under the Abhishek Rajendra Mohite license.
+This code is available under the Abhishek Rajendra Mohite license. 
